@@ -50,7 +50,7 @@ export default function Box() {
         <div className="img flex justity-center items-center bg-[#262f38] p-[1rem] rounded-full w-[3rem] my-[1rem]">
           <img src={star} alt="img" className="w-[1.5rem]" />
         </div>
-        <p className="text-[#f4f8f8] text-[1.7rem] mb-[1rem]">How did we do?</p>
+        <p className="text-[#f4f8f8] text-[1.7rem] mb-[1rem] font-bold">How did we do?</p>
         <p className="w-[100%]  text-[#959eac]  text-[1rem] mb-[1.5rem]">
           Please let us know how we did with your support request. All feedback
           is appreciated to help us improve our offering!
@@ -72,7 +72,7 @@ export default function Box() {
             5
           </div>
         </div>
-        <button className="bg-[#fc7613] w-[100%] text-[#f4f8f8] text-[1.6rem] rounded-[2rem] h-[3rem] hover:bg-[#ffffff] transition-all ease-linear duration-200 hover:text-[#fc7613]" onClick={Change}>
+        <button className="bg-[#fc7613] w-[100%] text-[#f4f8f8] text-[1.2rem] font-bold tracking-widest rounded-[2rem] h-[3rem] hover:bg-[#ffffff] transition-all ease-linear duration-200 hover:text-[#fc7613]" onClick={Change}>
           Submit
         </button>
       </div>
