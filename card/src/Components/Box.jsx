@@ -68,11 +68,11 @@ export default function Box() {
           <div className={`flex justity-center ${col4?"text-[#ffffff]":"text-[#959eac]"} items-center ${col4?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             4
           </div>
-          <div className={`flex justity-center ${col5?"text-[#ffffff]":"text-[#959eac]"} items-center ${col5?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center ${col5?"text-[#ffffff]":"text-[#959eac]"} items-center ${col5?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer text-center`} onClick={Number}>
             5
           </div>
         </div>
-        <button className="bg-[#fc7613] w-[100%] text-[#f4f8f8] text-[1.2rem] font-bold tracking-widest rounded-[2rem] h-[3rem] hover:bg-[#ffffff] transition-all ease-linear duration-200 hover:text-[#fc7613]" onClick={Change}>
+        <button className="bg-[#fc7613] w-[100%] text-[#f4f8f8] text-[1.2rem] font-bold tracking-widest rounded-[2rem] h-[2.5rem] hover:bg-[#ffffff] transition-all ease-linear duration-200 hover:text-[#fc7613] text-center flex flex-row justify-center items-center" onClick={Change}>
           Submit
         </button>
       </div>
