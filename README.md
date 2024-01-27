@@ -11,9 +11,11 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot1
 
 ![](./card/src/assets/images/screen1.png)
+
+### Screenshot2
 ![](./card/src/assets/images/screen2.png)
 
 
