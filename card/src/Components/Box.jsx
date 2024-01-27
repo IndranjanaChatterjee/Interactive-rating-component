@@ -56,19 +56,19 @@ export default function Box() {
           is appreciated to help us improve our offering!
         </p>
         <div className="rate flex flex-row justify-between items-center w-[100%] text-[#959eac] mb-[2rem]">
-          <div className={`flex justity-center items-center ${col1?"text-[#ffffff]":"text-[#959eac]"} ${col1?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center  hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center items-center ${col1?"text-[#ffffff]":"text-[#959eac]"} ${col1?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             1
           </div>
-          <div className={`flex justity-center ${col2?"text-[#ffffff]":"text-[#959eac]"} items-center ${col2?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center  hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center ${col2?"text-[#ffffff]":"text-[#959eac]"} items-center ${col2?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             2
           </div>
-          <div className={`flex justity-center ${col3?"text-[#ffffff]":"text-[#959eac]"} items-center ${col3?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center  hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center ${col3?"text-[#ffffff]":"text-[#959eac]"} items-center ${col3?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             3
           </div>
-          <div className={`flex justity-center ${col4?"text-[#ffffff]":"text-[#959eac]"} items-center ${col4?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center  hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center ${col4?"text-[#ffffff]":"text-[#959eac]"} items-center ${col4?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             4
           </div>
-          <div className={`flex justity-center ${col5?"text-[#ffffff]":"text-[#959eac]"} items-center ${col5?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center  hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
+          <div className={`flex justity-center ${col5?"text-[#ffffff]":"text-[#959eac]"} items-center ${col5?"bg-[#959eac]":"bg-[#262f38]"} p-[1rem] rounded-full w-[3rem] h-[3rem] text-[1.35em] text-center hover:text-[#ffffff] hover:bg-[#fc7613] transition-all duration-300 ease-linear cursor-pointer`} onClick={Number}>
             5
           </div>
         </div>
