@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Social-links-profile)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Interactive-rating-component)
 - Live Site URL: [live site URL](https://social-links-profile-xi.vercel.app/)
 
 
