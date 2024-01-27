@@ -8,8 +8,10 @@ function App() {
 
   return (
     <>
+    <section className='flex flex-col justify-center items-center'>
       <Box/>
       <Attribution/>
+      </section>
     </>
   )
 }
