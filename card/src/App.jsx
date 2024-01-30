@@ -5,7 +5,6 @@ import Attribution from './Components/Attribution'
 
 function App() {
   
-
   return (
     <>
     <section className='flex flex-col justify-center items-center'>
